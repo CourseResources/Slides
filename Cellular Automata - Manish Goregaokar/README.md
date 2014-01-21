@@ -11,4 +11,4 @@ Introduces cellular automata from Conway's Game of Life, to generic CAs, to elem
 Additional resources included in the talk but not used:
 
  - [Life in Life video](http://www.youtube.com/watch?v=xP5-iIeKXE8)
- - [The Gollysoftware, as well as the many sample files included in it](http://golly.sourceforge.net/)
+ - [The Golly software, as well as the many sample files included in it](http://golly.sourceforge.net/)
